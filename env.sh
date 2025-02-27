@@ -1,0 +1,6 @@
+
+
+#export WC_KEY=ck_91f178b81f4d81e447ba3ace38e99532dbfdb28b
+#export WC_SECRET=cs_6015eba636ff57b15fc9202a7e7f356b10532149
+
+export MACHINE=test

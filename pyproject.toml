@@ -1,0 +1,12 @@
+[tool.pytest.ini_options]
+markers = [
+    "smoke: Marks tests as smoke tests (e.g., for quick verification)",
+    "regression : Marks test as regression",
+]
+
+filterwarnings = [
+    "ignore:Unknown pytest.mark.*:pytest.PytestUnknownMarkWarning"
+]
+
+log_cli = true
+log_cli_level = "info"

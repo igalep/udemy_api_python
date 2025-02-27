@@ -1,0 +1,5 @@
+/.idea
+/venv
+**/allure-results
+
+**/__pycache__/
