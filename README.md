@@ -7,3 +7,6 @@ Go to https://www.udemy.com/course/backend-api-testing-with-python/learn/lecture
 
 MAMP in application folder
 the url is http://localhost:8880/index.php/shop/
+
+
+https://woocommerce.github.io/woocommerce-rest-api-docs/?python#
